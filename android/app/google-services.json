@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786894007889",
+    "project_id": "pizzato-7ea0f",
+    "storage_bucket": "pizzato-7ea0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786894007889:android:391c11b56a5345617b9270",
+        "android_client_info": {
+          "package_name": "com.example.pizzato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786894007889-ck7vlmkob5860191p4cbiisbr7f709k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSoT7AYRgm4vonVKJluU_gPGIYqmWQTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786894007889-ck7vlmkob5860191p4cbiisbr7f709k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
